@@ -1,0 +1,51 @@
+body{
+    font-family:Helvetica;
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(1, 53, 1);
+}
+
+div#logo{
+    margin-top: 50px;
+}
+
+div#vendas{
+    background-color: rgb(2, 110, 16);
+    height: 60;
+    width: 300;
+}
+div#vendas p{
+    font-size: 40px;
+    color: white;
+}
+
+div#produtos{   
+    width:300px;
+    height:50px;
+    background-color:white;
+    margin: 0 auto;
+}
+
+div#clientes{
+    width:300px;
+    height:50px;
+    background-color:white;
+    margin: 0 auto;  
+}
+
+div#tabela{
+    width:300px;
+    height:50px;
+    background-color:white;
+    margin: 0 auto;  
+}
+div#tabela p{
+    font-size: 25px;
+}
+
+div#pedidos{
+    width:300px;
+    height:50px;
+    background-color:white;
+    margin: 0 auto;
+}
